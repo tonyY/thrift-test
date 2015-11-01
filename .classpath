@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/tony/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tony/.m2/repository/org/apache/thrift/libthrift/0.9.3/libthrift-0.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tony/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tony/.m2/repository/org/slf4j/slf4j-log4j12/1.6.6/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
